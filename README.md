@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md. Al-Amin</h1>
+<h3 align="center">💼 Mechanical Engineer | 🏛️ Government Employee | 🎮 Gamer at Heart</h3>
 
-<!--
-**alamin-1610151/alamin-1610151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌟 About Me
+- 🔧 Passionate about **engineering, technology, and innovation**  
+- 🧠 Always exploring ways to integrate **mechanical systems with digital tools**  
+- 🎯 Focused on **efficiency, precision, and continuous learning**  
+- 🎮 Love to unwind by playing **video games** after a productive day  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Interests
+- **Mechanical Engineering** – Design, Analysis, Maintenance  
+- **Tools & Software** – AutoCAD, SolidWorks, MATLAB, MS Excel  
+- **Soft Skills** – Project Management, Team Leadership, Technical Communication  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="mailto:alamin1167034@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</p>
+
+---
+
+### ⚡ Fun Fact
+> “Precision is not just a skill — it’s an attitude.”
+
+
+---
+
+⭐ **Thanks for visiting my profile!** Have a great day 😊
